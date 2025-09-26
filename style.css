@@ -1,0 +1,14 @@
+a:hover{
+    color: rgba(201, 205, 26, 1);
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 33px;
+}
+
+nav{
+    background-color: rgba(28, 28, 28, 1);
+}
