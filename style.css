@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
 a:hover{
     color: rgba(201, 205, 26, 1);
 }
@@ -11,4 +13,17 @@ a{
 
 nav{
     background-color: rgba(28, 28, 28, 1);
+    font-size: 18px;
+    font-weight: 400;
+      font-family: "Itim", cursive;
+}
+
+@media(max-width:768px){
+    a{
+        margin-left: 0;
+    }
+
+    ul{
+         margin-top: 15px;
+    }
 }
