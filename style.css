@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 a:hover{
@@ -16,6 +17,17 @@ nav{
     font-size: 18px;
     font-weight: 400;
       font-family: "Itim", cursive;
+}
+
+.section-2 h1{
+ font-family: "Jomhuria", serif;
+font-size: 4rem;
+
+}
+
+.section-2-div-1{
+    width:40% ;
+    margin: auto;
 }
 
 @media(max-width:768px){
