@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 a:hover{
     color: rgba(201, 205, 26, 1);
@@ -30,13 +31,13 @@ font-size: 4rem;
     margin: auto;
 }
 
-footer{
+.footer-div-1{
     background-color: rgba(48, 48, 48, 1);
 }
 
-footer p{
+.footer-div-1 p{
     width: 40%;
-    margin: auto;
+    margin: 0 auto;
     font-size: 18px;
     font-family: "Itim", cursive;
 }
@@ -47,6 +48,11 @@ footer p{
 
 .accordion-question:focus{
     box-shadow: none;
+}
+
+.footer-div-2{
+    background-color: rgba(28, 28, 28, 1);
+    font-family: "Open Sans", sans-serif;
 }
 
 
