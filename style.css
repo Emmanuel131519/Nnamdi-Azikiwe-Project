@@ -30,6 +30,17 @@ font-size: 4rem;
     margin: auto;
 }
 
+footer{
+    background-color: rgba(48, 48, 48, 1);
+}
+
+footer p{
+    width: 40%;
+    margin: auto;
+    font-size: 18px;
+    font-family: "Itim", cursive;
+}
+
 @media(max-width:768px){
     a{
         margin-left: 0;
@@ -38,4 +49,11 @@ font-size: 4rem;
     ul{
          margin-top: 15px;
     }
+
+    footer p{
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+    font-family: "Itim", cursive;
+}
 }
